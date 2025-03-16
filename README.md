@@ -17,7 +17,7 @@
 - 🚀 Currently exploring **MERN Stack & Python for AI/ML**  
 - 👨‍💻 Check out my work on GitHub: [Jainras Peter](https://github.com/Jainras-Peter)  
 - 📚 Always learning & improving my **problem-solving and communication skills**  
-- 📫 Reach me at: **jainsubha30@gmail.com** (Replace with your actual email)  
+- 📫 Reach me at: **jainsubha30@gmail.com** 
 
 ---
 
