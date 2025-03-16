@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jainras Peter</h1>
+<h1 align="center">Hi , I'm Jainras Peter</h1>
 <h3 align="center">Engineering Undergrad | Aspiring Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width=700 height=400>
+  <img src="https://wallpaperboat.com/wp-content/uploads/2019/10/coding-16.jpg" width=700 height=400>
 </p>
 
 <p align="left">
