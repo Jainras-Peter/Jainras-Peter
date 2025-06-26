@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Undergrad | Aspiring Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://wallpaperboat.com/wp-content/uploads/2019/10/coding-16.jpg" width=700 height=400>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.extwebtech.com%2Fblog%2Fhow-to-choose-the-right-technology-stack-for-a-full-stack-development-project%2F&psig=AOvVaw2SW6AkLRZ6S_4RC0oNmkqm&ust=1751038913425000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCUiru2j44DFQAAAAAdAAAAABAE" width=700 height=400>
 </p>
 
 <p align="left">
