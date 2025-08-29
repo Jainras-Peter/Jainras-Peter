@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Undergrad | Aspiring Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://www.extwebtech.com/wp-content/uploads/2023/01/Full_stack_developer-1024x507.webp" width=700 height=400>
+<!--   <img src="https://www.extwebtech.com/wp-content/uploads/2023/01/Full_stack_developer-1024x507.webp" width=700 height=400> -->
 </p>
 
 <p align="left">
